@@ -19,4 +19,4 @@ A future-ready Node.js + Express backend for managing products.
 - dotenv
 
 ## How to Run
-
+ npm start
